@@ -1,5 +1,5 @@
 # Size_Thing_To_Page
-Script from Silicon Publishing (www.siliconpublishing.com)
+Script from Silicon Publishing (www.siliconpublishing.com/blog/free-indesign-scripts)
 
 Resizes the current selection to the size of the page.
 
